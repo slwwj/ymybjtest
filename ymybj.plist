@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.shanli.h5.ymybj</string>
+				<string>zhkt.yamooc.com</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
